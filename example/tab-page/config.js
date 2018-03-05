@@ -64,7 +64,7 @@ export default {
     textPaddingRight: 10
   },
   // 使用 iconfont 模式的tab title配置
-  tabIconFontTitles: [
+  tabTitles: [
     {
       title: '首页',
       codePoint: '\ue623'
